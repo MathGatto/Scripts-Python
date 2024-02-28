@@ -1,0 +1,6 @@
+O projeto tem como objetivo analisar o último ano de algumas ações da bolsa.
+
+Para isso vou criar um Script em Python com a biblioteca yfinance para realizar um WebScraping e carregar os dados em Dataframes.
+
+O Script irá rodar dentro do PowerBI e puxará automaticamente tabelas de cada ação selecionada.
+
